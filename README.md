@@ -1,6 +1,8 @@
 
-<h1 align="center"> Tere päevast, sõber 👋
-
+<h1 align="center"> Tere päevast, sõber 😃
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Bogdan Romanov" />
+</h1>
 
 <!-- 
 ## A description of what the project is for.
@@ -18,3 +20,7 @@ I regularly participate in Data Science hackathons and programming competitions,
 In my free time, I go in for sports, watch films in English, read scientific books and articles. And I just like to have a good time with friends)
 
 My telegram channel: https://t.me/eboutdatascience -->
+  
+## Skills
+- 👨‍💻 Python, R, 
+- 💽 SQL, postgreSQL, SQLAlchemy
