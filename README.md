@@ -10,7 +10,7 @@ But studying Policical Science is not enough, so I decided to dive into Data Ana
 - 💽 SQL, postgreSQL, SQLAlchemy
 - 🎥 Watching A24 movies everyday
 
-## Contact
+## Contacts
 - [Bogdan Romanov](https://www.linkedin.com/in/bogdan-romanov-b1b651221/) on LinkedIn
 - [@bogdan_romanov4](https://t.me/bogdan_romanov4) on Telegram
-- [Bogdan Romanov#1296] on Discord
+- Bogdan Romanov#1296 on Discord
