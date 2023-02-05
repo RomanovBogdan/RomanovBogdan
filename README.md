@@ -1,5 +1,7 @@
+![Header]
+(https://cdn.booktrust.org.uk/globalassets/images/quizzes/best-books-6-8/finn-family-moomintroll-16x9.jpg?w=1200&h=675&quality=70&anchor=middlecenter)
 
-###<h1 align="center"> Tere päevast, sõber 😃 </h1>
+<h2 align="center"> Tere päevast, sõber 😃 </h1>
 
 My name is Bogdan, 25 years old, currently I am a Ph.D. student at the University of Tartu, Estonia. 
 But studying Policical Science is not enough, so I decided to dive into Data Analysis and Data Science! 
