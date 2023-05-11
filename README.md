@@ -35,7 +35,7 @@ Timeline: *September 2021 - Present*
 -	Statistical Data Science (Institute of Mathematics and Statistics)
 -	Introduction to Data Science (Chair of Data Science)
 -	Start ML (KarpovCourses)
--	various DataCamp courses and certifications ([Data Analyst Associate ](https://www.datacamp.com/certificate/DAA0019177504098), (Data Analyst Professional](https://www.datacamp.com/certificate/DA0025576555109)
+-	various DataCamp courses and certifications ([Data Analyst Associate](https://www.datacamp.com/certificate/DAA0019177504098), [Data Analyst Professional](https://www.datacamp.com/certificate/DA0025576555109))
 
 ## 💽 Skills
 - Python, R
