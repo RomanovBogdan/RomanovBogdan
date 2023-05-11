@@ -1,4 +1,4 @@
-![Header](https://github.com/RomanovBogdan/RomanovBogdan/blob/1a3852541126589551a5e586abb54e255b95ebb9/photo_2023-02-05_11-46-25.jpg)
+![Header](image.png)
 
 <h2 align="center"> Tere päevast, sõber </h2>
 
