@@ -3,7 +3,7 @@
 <h2 align="center"> Tere päevast, sõber </h2>
 
 My name is Bogdan, 26 years old, currently I am a Ph.D. student at the University of Tartu, Estonia. 
-Studying Policical Science is not enough, so I decided to dive into Data Analysis and Data Engineering! 
+Studying Polytical Science is not enough, so I decided to dive into Data Analysis and Data Engineering! 
   
 ## 🔤 Experience
 
@@ -15,9 +15,9 @@ Timeline: *September 2020 — March 2021*
 
 2. Data Analyst and Quantitative Developer at [Xena Exchange](https://twitter.com/XenaExchange) and [Qredo](https://www.qredo.com/)
 Timeline: *March 2021 — December 2022*
-- Conducted R&D projects aiming at financial A/B tests and trading system optimization, entailing prediction of asset’s prices
-- Prepared analytical reports, both internal and externa, based on the R&D
-- Obtained more nuanced knowledge base of finance and trading: OHLC, HFT, cashflow/Profit&Loss, etc.
+- Conducted R&D projects aiming at financial A/B tests and trading system optimization, entailing the prediction of asset prices
+- Prepared analytical reports, both internal and external, based on the R&D
+- Obtained a more nuanced knowledge base of finance and trading: OHLC, HFT, cashflow/Profit&Loss, etc.
 - Parsed 1000+ trading systems, four of which were optimized via **Python** and **WealthLab**, and turned into production-ready (met the criteria of win rate, recovery factor, Sharpe ratio, etc.)
 - Worked with APIs of trading platforms by sending **SQL** requests and created the OOP-based template for requests and data collection for **Python**
 - Learned data engineering of financial data via **SQL** and **Python** and basic data warehousing principles
