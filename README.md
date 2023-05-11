@@ -7,13 +7,13 @@ Studying Polytical Science is not enough, so I decided to dive into Data Analysi
   
 ## 🔤 Experience
 
-1. Data Analyst at the NGO
+### 1. Data Analyst at the NGO
 Timeline: *September 2020 — March 2021*
 - Compiled reports with **Tableau**
 - Wrote Telegram parser on **Python**
 - Conducted data analysis with **Python** and **Excel**
 
-2. Data Analyst and Quantitative Developer at [Xena Exchange](https://twitter.com/XenaExchange) and [Qredo](https://www.qredo.com/)
+### 2. Data Analyst and Quantitative Developer at [Xena Exchange](https://twitter.com/XenaExchange) and [Qredo](https://www.qredo.com/)
 Timeline: *March 2021 — December 2022*
 - Conducted R&D projects aiming at financial A/B tests and trading system optimization, entailing the prediction of asset prices
 - Prepared analytical reports, both internal and external, based on the R&D
@@ -24,7 +24,7 @@ Timeline: *March 2021 — December 2022*
 - Visualized 15-minute data for 800+ stocks and prepared various graphs (**Tableau**, **Python**), which were used on the company’s social media and internal and cross-tribe reports
 - Had to independently learn how to write unit-tests on Python and craft trading systems on **C#**
 
-3. Junior Research Fellow at [University of Tartu](https://ut.ee/et)
+### 3. Junior Research Fellow at [University of Tartu](https://ut.ee/et)
 Timeline: *September 2021 - Present*
 - Gathering and analyzing quantitative data (regressions and other statistical models in **R** and **Python**; visualizations with the help of seaborn and plotly, as well as **Tableau**)
 - Preparation of EDA for the colleagues and their research ideas with the help of **SQL**, **Tableau**, and **Python**: e.g., preliminary visualization for the COVID-related project jointly conducted with the Estonian Ministry of Healthcare
