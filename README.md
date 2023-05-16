@@ -43,6 +43,7 @@ Timeline: *September 2020 — March 2021*
 - 🎥 Watching A24 movies everyday
 
 ## 📬 Contacts
+- [BogdanRomanov](https://www.etis.ee/CV/Bogdan_Romanov/eng/) at Estonian Research Information System
 - [Bogdan Romanov](https://www.linkedin.com/in/bogdan-romanov-b1b651221/) on LinkedIn
 - [@bogdan_romanov4](https://t.me/bogdan_romanov4) on Telegram
 - Bogdan Romanov#1296 on Discord
