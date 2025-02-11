@@ -42,6 +42,10 @@ Timeline: *September 2020 — March 2021*
 - SQL, postgreSQL, SQLAlchemy
 - 🎥 Watching A24 movies everyday
 
+## Datasets
+- [GAFAM Self-Narratives](https://datadoi.ee/handle/33/591)
+- [Stakeholder Discourse on DMA and DSA](https://datadoi.ee/handle/33/570)
+
 ## 📬 Contacts
 - [BogdanRomanov](https://www.etis.ee/CV/Bogdan_Romanov/eng/) at Estonian Research Information System
 - [Bogdan Romanov](https://www.linkedin.com/in/bogdan-romanov-b1b651221/) on LinkedIn
